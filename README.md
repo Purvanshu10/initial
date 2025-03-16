@@ -1,4 +1,4 @@
 # initial
 creating a demo repo
 <br>
-by purvj
+by purvanshu jindal
